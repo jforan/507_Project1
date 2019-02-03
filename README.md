@@ -1,6 +1,6 @@
 # Functionality
 
-This app allows for a number of possibile outcomes. 
+This app allows for a number of possibile outcomes.
 
 * it welcomes users to the app
 * welcomes it to a specific bank
@@ -12,6 +12,7 @@ This app allows for a number of possibile outcomes.
 
 
 # Requirements
+
 * Flask
 * lab3_code.py (this provides Currency, Yuan, Dollar, Pound, and Bank classes)
 
